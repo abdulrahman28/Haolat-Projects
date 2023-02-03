@@ -1,0 +1,16 @@
+C:\Users\adeba\Projects\Java_learning\VS project\area_calculation\AreaPerimeter\bin\Debug\AreaPerimeter.exe.config
+C:\Users\adeba\Projects\Java_learning\VS project\area_calculation\AreaPerimeter\bin\Debug\AreaPerimeter.exe
+C:\Users\adeba\Projects\Java_learning\VS project\area_calculation\AreaPerimeter\bin\Debug\AreaPerimeter.pdb
+C:\Users\adeba\Projects\Java_learning\VS project\area_calculation\AreaPerimeter\obj\Debug\AreaPerimeter.csproj.AssemblyReference.cache
+C:\Users\adeba\Projects\Java_learning\VS project\area_calculation\AreaPerimeter\obj\Debug\AreaPerimeter.csproj.SuggestedBindingRedirects.cache
+C:\Users\adeba\Projects\Java_learning\VS project\area_calculation\AreaPerimeter\obj\Debug\AreaPerimeter.Form1.resources
+C:\Users\adeba\Projects\Java_learning\VS project\area_calculation\AreaPerimeter\obj\Debug\AreaPerimeter.Properties.Resources.resources
+C:\Users\adeba\Projects\Java_learning\VS project\area_calculation\AreaPerimeter\obj\Debug\AreaPerimeter.csproj.GenerateResource.cache
+C:\Users\adeba\Projects\Java_learning\VS project\area_calculation\AreaPerimeter\obj\Debug\AreaPerimeter.csproj.CoreCompileInputs.cache
+C:\Users\adeba\Projects\Java_learning\VS project\area_calculation\AreaPerimeter\obj\Debug\AreaPerimeter.exe
+C:\Users\adeba\Projects\Java_learning\VS project\area_calculation\AreaPerimeter\obj\Debug\AreaPerimeter.pdb
+C:\Users\adeba\Projects\Java_learning\VS project\area_calculation\AreaPerimeter\obj\Debug\AreaPerimeter.Homepage.resources
+C:\Users\adeba\Projects\Java_learning\VS project\area_calculation\AreaPerimeter\obj\Debug\AreaPerimeter.Form2.resources
+C:\Users\adeba\Projects\Java_learning\VS project\area_calculation\AreaPerimeter\obj\Debug\AreaPerimeter.Form3.resources
+C:\Users\adeba\Projects\Java_learning\VS project\area_calculation\AreaPerimeter\obj\Debug\AreaPerimeter.Form4.resources
+C:\Users\adeba\Projects\Java_learning\VS project\area_calculation\AreaPerimeter\obj\Debug\AreaPerimeter.Form5.resources
