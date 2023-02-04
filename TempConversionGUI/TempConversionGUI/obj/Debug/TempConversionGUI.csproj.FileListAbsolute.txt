@@ -1,0 +1,12 @@
+C:\Users\yusuf\Documents\JAVA CLASS\Visual Studio\TempConversionGUI\TempConversionGUI\bin\Debug\TempConversionGUI.exe.config
+C:\Users\yusuf\Documents\JAVA CLASS\Visual Studio\TempConversionGUI\TempConversionGUI\bin\Debug\TempConversionGUI.exe
+C:\Users\yusuf\Documents\JAVA CLASS\Visual Studio\TempConversionGUI\TempConversionGUI\bin\Debug\TempConversionGUI.pdb
+C:\Users\yusuf\Documents\JAVA CLASS\Visual Studio\TempConversionGUI\TempConversionGUI\obj\Debug\TempConversionGUI.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\Documents\JAVA CLASS\Visual Studio\TempConversionGUI\TempConversionGUI\obj\Debug\TempConversionGUI.Properties.Resources.resources
+C:\Users\yusuf\Documents\JAVA CLASS\Visual Studio\TempConversionGUI\TempConversionGUI\obj\Debug\TempConversionGUI.csproj.GenerateResource.Cache
+C:\Users\yusuf\Documents\JAVA CLASS\Visual Studio\TempConversionGUI\TempConversionGUI\obj\Debug\TempConversionGUI.exe
+C:\Users\yusuf\Documents\JAVA CLASS\Visual Studio\TempConversionGUI\TempConversionGUI\obj\Debug\TempConversionGUI.pdb
+C:\Users\yusuf\Documents\JAVA CLASS\Visual Studio\TempConversionGUI\TempConversionGUI\obj\Debug\TempConversionGUI.Circle.resources
+C:\Users\yusuf\Documents\JAVA CLASS\Visual Studio\TempConversionGUI\TempConversionGUI\obj\Debug\TempConversionGUI.Tempeature.resources
+C:\Users\yusuf\Documents\JAVA CLASS\Visual Studio\TempConversionGUI\TempConversionGUI\obj\Debug\TempConversionGUI.MainPage.resources
+C:\Users\yusuf\Documents\JAVA CLASS\Visual Studio\TempConversionGUI\TempConversionGUI\obj\Debug\TempConversionGUI.Calculator.resources
